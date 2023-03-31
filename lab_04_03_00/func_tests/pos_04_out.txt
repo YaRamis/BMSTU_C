@@ -1,0 +1,2 @@
+Enter a string:
+Result: world looka some take 

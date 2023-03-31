@@ -1,0 +1,7 @@
+Enter first string:
+Enter second string:
+Result: hey no
+what no
+is yes
+your no
+name yes

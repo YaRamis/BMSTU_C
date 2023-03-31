@@ -1,0 +1,6 @@
+Enter first string:
+Enter second string:
+Result: my no
+name no
+is yes
+OVERLORD no

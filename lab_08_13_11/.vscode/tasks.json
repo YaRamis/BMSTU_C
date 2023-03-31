@@ -1,0 +1,36 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: gcc сборка активного файла",
+            "command": "/usr/bin/gcc",
+            "args": [
+                "-std=c99",
+                "-g3",
+                "-Wall",
+                "-Wextra",
+                "-Wpedantic",
+                "-Werror",
+                "-Wvla",
+                "-Wfloat-equal",
+                "-Wfloat-conversion",
+                "/home/ramis/PROG/lab_08_13_11/src/main.c",
+                "/home/ramis/PROG/lab_08_13_11/src/matrix.c",
+                "-o",
+                "app.exe"
+            ],
+            "options": {
+                "cwd": "/home/ramis/PROG/lab_08_13_11"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Задача создана отладчиком."
+        }
+    ],
+    "version": "2.0.0"
+}

@@ -1,0 +1,7 @@
+Enter first string:
+Enter second string:
+Result: keke no
+kek yes
+lol no
+hi no
+hey yes

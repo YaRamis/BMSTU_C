@@ -1,0 +1,1 @@
+neg_10_in.txt output_file_temp.txt f

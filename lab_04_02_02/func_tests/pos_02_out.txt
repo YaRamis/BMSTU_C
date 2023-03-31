@@ -1,0 +1,5 @@
+Enter first string:
+Enter second string:
+Result: lol no
+kek no
+haha no

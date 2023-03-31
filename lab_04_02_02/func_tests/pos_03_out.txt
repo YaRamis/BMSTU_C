@@ -1,0 +1,6 @@
+Enter first string:
+Enter second string:
+Result: hello yes
+world no
+say yes
+hi yes

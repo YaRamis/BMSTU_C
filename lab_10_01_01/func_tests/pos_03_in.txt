@@ -1,0 +1,3 @@
+toyota 2008
+car 1989
+kamaz 2022
